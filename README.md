@@ -1,5 +1,5 @@
 ## Hi there 👋
-I play football
+I'm Avery. I'm from Las Vegas, Nevada, United States. I play football for i2i international Academy.
 <!--
 **i2i-avery/i2i-avery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
